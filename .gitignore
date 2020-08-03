@@ -1,0 +1,6 @@
+/target/
+.classpath
+.project
+server.log
+/test-output/
+/.settings/
